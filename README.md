@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarmaChild
-- 🚀 Building - RateMyCuts.com
+- 🚀 Building - [RateMyCuts.com](http://ratemycuts.com/)
 - 📫 How to reach me - adithya1bijukumar@gmail.com , https://www.linkedin.com/in/adithyamattappily/
 
 <!---
